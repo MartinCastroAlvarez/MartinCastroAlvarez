@@ -50,6 +50,12 @@
     </a>:
     --> <a href=https://github.com/MartinCastroAlvarez/gpt-context-injection> <img src="https://img.shields.io/badge/Python-EDEDED?style=flat-square&logo=Python&logoColor=181818"> </a> <a href=https://github.com/MartinCastroAlvarez/gpt-context-injection> <img src="https://img.shields.io/badge/ChatGPT-EDEDED?style=flat-square&logo=openai&logoColor=181818"> </a> <br> <!--
     <i>Context injection and GPT models.</i>
+    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/html2vec> <img src="https://img.shields.io/badge/html2vec-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <!--
+    <a target='html2vec' href='https://github.com/MartinCastroAlvarez/html2vec'>
+        html2vec
+    </a>:
+    --> <a href=https://github.com/MartinCastroAlvarez/html2vec> <img src="https://img.shields.io/badge/Python-EDEDED?style=flat-square&logo=Python&logoColor=181818"> </a> <a href=https://github.com/MartinCastroAlvarez/html2vec> <img src="https://img.shields.io/badge/Numpy-EDEDED?style=flat-square&logo=Numpy&logoColor=181818"> </a> <a href=https://github.com/MartinCastroAlvarez/html2vec> <img src="https://img.shields.io/badge/SpaCy-EDEDED?style=flat-square&logo=SpaCy&logoColor=181818"> </a> <br> <!--
+    <i>Vectorizing HTML pages.</i>
     --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch> <img src="https://img.shields.io/badge/search keras gensim elasticsearch-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <!--
     <a target='search-keras-gensim-elasticsearch' href='https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch'>
         search-keras-gensim-elasticsearch
@@ -139,6 +145,25 @@
         </td>
         <td>
             Context injection and GPT models.
+        </td>
+    </tbody>
+
+    <tbody>
+        <td width='40%'>
+            <a target='html2vec' href='https://github.com/MartinCastroAlvarez/html2vec'>html2vec</a>
+        </td>
+        <td>
+            
+            
+                <img src='https://img.shields.io/badge/Python-EDEDED?style=for-the-badge&logo=Python&logoColor=181818'/>
+            
+                <img src='https://img.shields.io/badge/Numpy-EDEDED?style=for-the-badge&logo=Numpy&logoColor=181818'/>
+            
+                <img src='https://img.shields.io/badge/SpaCy-EDEDED?style=for-the-badge&logo=SpaCy&logoColor=181818'/>
+            
+        </td>
+        <td>
+            Vectorizing HTML pages.
         </td>
     </tbody>
 
@@ -763,7 +788,7 @@
     </tbody>
 
 </table>
---> <h2 align=center>Backend</h2> <p> <a href=https://github.com/MartinCastroAlvarez/geo-django> <img src="https://img.shields.io/badge/geo django-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <!--
+--> <h2 align=center>Geolocation</h2> <p> <a href=https://github.com/MartinCastroAlvarez/geo-django> <img src="https://img.shields.io/badge/geo django-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <!--
     <a target='geo-django' href='https://github.com/MartinCastroAlvarez/geo-django'>
         geo-django
     </a>:
