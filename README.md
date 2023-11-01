@@ -8,7 +8,7 @@
     <a target='assembly-logisim-circuits' href='https://github.com/MartinCastroAlvarez/assembly-logisim-circuits'>
         assembly-logisim-circuits
     </a>:
-    --> <br> <!--
+    --> <a href=https://github.com/MartinCastroAlvarez/assembly-logisim-circuits> <img src="https://img.shields.io/badge/Assembly-EDEDED?style=flat-square&logo=Assembly&logoColor=181818"> </a> <a href=https://github.com/MartinCastroAlvarez/assembly-logisim-circuits> <img src="https://img.shields.io/badge/Logisim-EDEDED?style=flat-square&logo=Logisim&logoColor=181818"> </a> <br> <!--
     <i>Logic Circuits using Logisim.</i>
     --> </p> <!--
 <table>
@@ -36,6 +36,10 @@
         </td>
         <td>
             
+            
+                <img src='https://img.shields.io/badge/Assembly-EDEDED?style=for-the-badge&logo=Assembly&logoColor=181818'/>
+            
+                <img src='https://img.shields.io/badge/Logisim-EDEDED?style=for-the-badge&logo=Logisim&logoColor=181818'/>
             
         </td>
         <td>
