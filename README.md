@@ -2,7 +2,6 @@
     <a target='quantum-algorithms-java' href='https://github.com/MartinCastroAlvarez/quantum-algorithms-java'>
         quantum-algorithms-java
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/quantum-algorithms-java'>
@@ -21,7 +20,6 @@
     <a target='assembly-logisim-circuits' href='https://github.com/MartinCastroAlvarez/assembly-logisim-circuits'>
         assembly-logisim-circuits
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/assembly-logisim-circuits'>
@@ -40,7 +38,6 @@
     <a target='gpt-context-injection' href='https://github.com/MartinCastroAlvarez/gpt-context-injection'>
         gpt-context-injection
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/gpt-context-injection'>
@@ -59,7 +56,6 @@
     <a target='html2vec' href='https://github.com/MartinCastroAlvarez/html2vec'>
         html2vec
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/html2vec'>
@@ -84,7 +80,6 @@
     <a target='search-keras-gensim-elasticsearch' href='https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch'>
         search-keras-gensim-elasticsearch
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch'>
@@ -109,7 +104,6 @@
     <a target='keras-nltk-topic-modeling' href='https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling'>
         keras-nltk-topic-modeling
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling'>
@@ -128,7 +122,6 @@
     <a target='keras-document-classifier' href='https://github.com/MartinCastroAlvarez/keras-document-classifier'>
         keras-document-classifier
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/keras-document-classifier'>
@@ -147,7 +140,6 @@
     <a target='keras-image-detection-classification' href='https://github.com/MartinCastroAlvarez/keras-image-detection-classification'>
         keras-image-detection-classification
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/keras-image-detection-classification'>
@@ -166,7 +158,6 @@
     <a target='python-recommender-systems' href='https://github.com/MartinCastroAlvarez/python-recommender-systems'>
         python-recommender-systems
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-recommender-systems'>
@@ -191,7 +182,6 @@
     <a target='graph-link-prediction' href='https://github.com/MartinCastroAlvarez/graph-link-prediction'>
         graph-link-prediction
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/graph-link-prediction'>
@@ -210,7 +200,6 @@
     <a target='python-deep-learning-algorithms' href='https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms'>
         python-deep-learning-algorithms
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms'>
@@ -247,7 +236,6 @@
     <a target='cross-datasource-entity-matching' href='https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching'>
         cross-datasource-entity-matching
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching'>
@@ -266,7 +254,6 @@
     <a target='supply-chain-optimization' href='https://github.com/MartinCastroAlvarez/supply-chain-optimization'>
         supply-chain-optimization
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/supply-chain-optimization'>
@@ -285,7 +272,6 @@
     <a target='Python-Monte-Carlo-Simulator' href='https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator'>
         Python-Monte-Carlo-Simulator
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator'>
@@ -304,7 +290,6 @@
     <a target='statistical-distributions' href='https://github.com/MartinCastroAlvarez/statistical-distributions'>
         statistical-distributions
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/statistical-distributions'>
@@ -335,7 +320,6 @@
     <a target='Genetic-Paper' href='https://github.com/MartinCastroAlvarez/Genetic-Paper'>
         Genetic-Paper
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Genetic-Paper'>
@@ -348,7 +332,6 @@
     <a target='Genetic-Optimization-Algorithm' href='https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm'>
         Genetic-Optimization-Algorithm
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm'>
@@ -361,7 +344,6 @@
     <a target='apache-hive-docker' href='https://github.com/MartinCastroAlvarez/apache-hive-docker'>
         apache-hive-docker
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/apache-hive-docker'>
@@ -386,7 +368,6 @@
     <a target='hadoop-hdfs-map-reduce-docker' href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker'>
         hadoop-hdfs-map-reduce-docker
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker'>
@@ -405,7 +386,6 @@
     <a target='hadoop-hdfs-kafka-docker' href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker'>
         hadoop-hdfs-kafka-docker
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker'>
@@ -430,7 +410,6 @@
     <a target='hadoop-hdfs-hbase-docker' href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker'>
         hadoop-hdfs-hbase-docker
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker'>
@@ -449,7 +428,6 @@
     <a target='aws-django-ansible' href='https://github.com/MartinCastroAlvarez/aws-django-ansible'>
         aws-django-ansible
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/aws-django-ansible'>
@@ -480,7 +458,6 @@
     <a target='terraform-aws-django' href='https://github.com/MartinCastroAlvarez/terraform-aws-django'>
         terraform-aws-django
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/terraform-aws-django'>
@@ -499,7 +476,6 @@
     <a target='aws-django-kubernetes' href='https://github.com/MartinCastroAlvarez/aws-django-kubernetes'>
         aws-django-kubernetes
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/aws-django-kubernetes'>
@@ -524,7 +500,6 @@
     <a target='aws-networking-elastic-beanstalk-automation' href='https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation'>
         aws-networking-elastic-beanstalk-automation
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation'>
@@ -561,7 +536,6 @@
     <a target='supervisor-python' href='https://github.com/MartinCastroAlvarez/supervisor-python'>
         supervisor-python
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/supervisor-python'>
@@ -574,7 +548,6 @@
     <a target='Python-Splunk-CLI' href='https://github.com/MartinCastroAlvarez/Python-Splunk-CLI'>
         Python-Splunk-CLI
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Splunk-CLI'>
@@ -593,7 +566,6 @@
     <a target='filesystem-tools' href='https://github.com/MartinCastroAlvarez/filesystem-tools'>
         filesystem-tools
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/filesystem-tools'>
@@ -612,7 +584,6 @@
     <a target='ethereum-solidity-contract' href='https://github.com/MartinCastroAlvarez/ethereum-solidity-contract'>
         ethereum-solidity-contract
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/ethereum-solidity-contract'>
@@ -631,7 +602,6 @@
     <a target='django-multi-blockchain' href='https://github.com/MartinCastroAlvarez/django-multi-blockchain'>
         django-multi-blockchain
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/django-multi-blockchain'>
@@ -662,7 +632,6 @@
     <a target='solana-token-rust' href='https://github.com/MartinCastroAlvarez/solana-token-rust'>
         solana-token-rust
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/solana-token-rust'>
@@ -681,7 +650,6 @@
     <a target='Python-Video-Processing' href='https://github.com/MartinCastroAlvarez/Python-Video-Processing'>
         Python-Video-Processing
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Video-Processing'>
@@ -706,7 +674,6 @@
     <a target='media-tools' href='https://github.com/MartinCastroAlvarez/media-tools'>
         media-tools
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/media-tools'>
@@ -725,7 +692,6 @@
     <a target='geo-django' href='https://github.com/MartinCastroAlvarez/geo-django'>
         geo-django
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/geo-django'>
@@ -738,7 +704,6 @@
     <a target='pandas-geo-analytics' href='https://github.com/MartinCastroAlvarez/pandas-geo-analytics'>
         pandas-geo-analytics
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/pandas-geo-analytics'>
@@ -757,7 +722,6 @@
     <a target='node-typescript-pdf-renderer' href='https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer'>
         node-typescript-pdf-renderer
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer'>
@@ -770,7 +734,6 @@
     <a target='java-spring-boot' href='https://github.com/MartinCastroAlvarez/java-spring-boot'>
         java-spring-boot
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/java-spring-boot'>
@@ -789,7 +752,6 @@
     <a target='data-structures-java' href='https://github.com/MartinCastroAlvarez/data-structures-java'>
         data-structures-java
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/data-structures-java'>
@@ -802,7 +764,6 @@
     <a target='django-data-analytics' href='https://github.com/MartinCastroAlvarez/django-data-analytics'>
         django-data-analytics
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/django-data-analytics'>
@@ -815,7 +776,6 @@
     <a target='django-cms' href='https://github.com/MartinCastroAlvarez/django-cms'>
         django-cms
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/django-cms'>
@@ -828,7 +788,6 @@
     <a target='flask-mongodb-celery-messaging-api' href='https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api'>
         flask-mongodb-celery-messaging-api
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api'>
@@ -859,7 +818,6 @@
     <a target='python-s3-media-server' href='https://github.com/MartinCastroAlvarez/python-s3-media-server'>
         python-s3-media-server
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-s3-media-server'>
@@ -872,7 +830,6 @@
     <a target='python-chat-server-sockets' href='https://github.com/MartinCastroAlvarez/python-chat-server-sockets'>
         python-chat-server-sockets
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-chat-server-sockets'>
@@ -885,7 +842,6 @@
     <a target='Flask-Application' href='https://github.com/MartinCastroAlvarez/Flask-Application'>
         Flask-Application
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Flask-Application'>
@@ -898,7 +854,6 @@
     <a target='python-web-crawler' href='https://github.com/MartinCastroAlvarez/python-web-crawler'>
         python-web-crawler
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-web-crawler'>
@@ -911,7 +866,6 @@
     <a target='Python-Google-Spreadsheets' href='https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets'>
         Python-Google-Spreadsheets
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets'>
@@ -930,7 +884,6 @@
     <a target='software-patterns' href='https://github.com/MartinCastroAlvarez/software-patterns'>
         software-patterns
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/software-patterns'>
@@ -943,7 +896,6 @@
     <a target='web-to-pdf' href='https://github.com/MartinCastroAlvarez/web-to-pdf'>
         web-to-pdf
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/web-to-pdf'>
@@ -956,7 +908,6 @@
     <a target='development-tools' href='https://github.com/MartinCastroAlvarez/development-tools'>
         development-tools
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/development-tools'>
@@ -969,7 +920,6 @@
     <a target='python-jira-cli' href='https://github.com/MartinCastroAlvarez/python-jira-cli'>
         python-jira-cli
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-jira-cli'>
@@ -988,7 +938,6 @@
     <a target='microfrontends' href='https://github.com/MartinCastroAlvarez/microfrontends'>
         microfrontends
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/microfrontends'>
@@ -1013,7 +962,6 @@
     <a target='cypress-tests' href='https://github.com/MartinCastroAlvarez/cypress-tests'>
         cypress-tests
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/cypress-tests'>
@@ -1032,7 +980,6 @@
     <a target='react-firebase-oauth' href='https://github.com/MartinCastroAlvarez/react-firebase-oauth'>
         react-firebase-oauth
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/react-firebase-oauth'>
@@ -1051,7 +998,6 @@
     <a target='flexbox-project' href='https://github.com/MartinCastroAlvarez/flexbox-project'>
         flexbox-project
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/flexbox-project'>
@@ -1064,7 +1010,6 @@
     <a target='typescript-map-reduce' href='https://github.com/MartinCastroAlvarez/typescript-map-reduce'>
         typescript-map-reduce
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/typescript-map-reduce'>
@@ -1077,7 +1022,6 @@
     <a target='typescript-mongodb-nestjs-mvc' href='https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc'>
         typescript-mongodb-nestjs-mvc
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc'>
@@ -1102,7 +1046,6 @@
     <a target='javascript-selenium-web-driver' href='https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver'>
         javascript-selenium-web-driver
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver'>
@@ -1115,7 +1058,6 @@
     <a target='typescript-classes' href='https://github.com/MartinCastroAlvarez/typescript-classes'>
         typescript-classes
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/typescript-classes'>
@@ -1128,7 +1070,6 @@
     <a target='Python-Android-Manager' href='https://github.com/MartinCastroAlvarez/Python-Android-Manager'>
         Python-Android-Manager
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Android-Manager'>
@@ -1147,7 +1088,6 @@
     <a target='UNLaM-Android-App' href='https://github.com/MartinCastroAlvarez/UNLaM-Android-App'>
         UNLaM-Android-App
     </a>:
-    --> <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/UNLaM-Android-App'>
