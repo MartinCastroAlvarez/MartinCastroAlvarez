@@ -1,7 +1,10 @@
-<p align=center><img width=100% src=media/moon.gif></p> <h2 align=center>Quantum Computing</h2> <p> <a href=https://github.com/MartinCastroAlvarez/quantum-algorithms-java> <img src="https://img.shields.io/badge/quantum algorithms java-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Quantum Algorithms in Java.</i> <!--
-    <a target='quantum-algorithms-java' href='https://github.com/MartinCastroAlvarez/quantum-algorithms-java'>
-        quantum-algorithms-java
-    </a>:
+<p align=center><img width=100% src=media/moon.gif></p> <h2 align=center>Quantum Computing</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/quantum-algorithms-java'>
+    <img src='https://img.shields.io/badge/quantum algorithms java-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=quantum-algorithms-java href=https://github.com/MartinCastroAlvarez/quantum-algorithms-java> Quantum Algorithms in Java. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/quantum-algorithms-java'>
@@ -16,10 +19,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/assembly-logisim-circuits> <img src="https://img.shields.io/badge/assembly logisim circuits-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Logic Circuits using Logisim.</i> <!--
-    <a target='assembly-logisim-circuits' href='https://github.com/MartinCastroAlvarez/assembly-logisim-circuits'>
-        assembly-logisim-circuits
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/assembly-logisim-circuits'>
+    <img src='https://img.shields.io/badge/assembly logisim circuits-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=assembly-logisim-circuits href=https://github.com/MartinCastroAlvarez/assembly-logisim-circuits> Logic Circuits using Logisim. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/assembly-logisim-circuits'>
@@ -34,10 +40,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Deep Learning</h2> <p> <a href=https://github.com/MartinCastroAlvarez/gpt-context-injection> <img src="https://img.shields.io/badge/gpt context injection-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Context injection and GPT models.</i> <!--
-    <a target='gpt-context-injection' href='https://github.com/MartinCastroAlvarez/gpt-context-injection'>
-        gpt-context-injection
-    </a>:
+    --> </p> <h2 align=center>Deep Learning</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/gpt-context-injection'>
+    <img src='https://img.shields.io/badge/gpt context injection-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=gpt-context-injection href=https://github.com/MartinCastroAlvarez/gpt-context-injection> Context injection and GPT models. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/gpt-context-injection'>
@@ -52,10 +61,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/html2vec> <img src="https://img.shields.io/badge/html2vec-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Vectorizing HTML pages.</i> <!--
-    <a target='html2vec' href='https://github.com/MartinCastroAlvarez/html2vec'>
-        html2vec
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/html2vec'>
+    <img src='https://img.shields.io/badge/html2vec-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=html2vec href=https://github.com/MartinCastroAlvarez/html2vec> Vectorizing HTML pages. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/html2vec'>
@@ -76,10 +88,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch> <img src="https://img.shields.io/badge/search keras gensim elasticsearch-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Search Engine using Word Embeddings, GloVe, and Elasticsearch.</i> <!--
-    <a target='search-keras-gensim-elasticsearch' href='https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch'>
-        search-keras-gensim-elasticsearch
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch'>
+    <img src='https://img.shields.io/badge/search keras gensim elasticsearch-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=search-keras-gensim-elasticsearch href=https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch> Search Engine using Word Embeddings, GloVe, and Elasticsearch. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/search-keras-gensim-elasticsearch'>
@@ -100,10 +115,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling> <img src="https://img.shields.io/badge/keras nltk topic modeling-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Implementation of a Neural Network to classify text using Keras.</i> <!--
-    <a target='keras-nltk-topic-modeling' href='https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling'>
-        keras-nltk-topic-modeling
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling'>
+    <img src='https://img.shields.io/badge/keras nltk topic modeling-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=keras-nltk-topic-modeling href=https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling> Implementation of a Neural Network to classify text using Keras. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/keras-nltk-topic-modeling'>
@@ -118,10 +136,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/keras-document-classifier> <img src="https://img.shields.io/badge/keras document classifier-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Neural Network using Keras, Google Search API and AsyncIO.</i> <!--
-    <a target='keras-document-classifier' href='https://github.com/MartinCastroAlvarez/keras-document-classifier'>
-        keras-document-classifier
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/keras-document-classifier'>
+    <img src='https://img.shields.io/badge/keras document classifier-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=keras-document-classifier href=https://github.com/MartinCastroAlvarez/keras-document-classifier> Neural Network using Keras, Google Search API and AsyncIO. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/keras-document-classifier'>
@@ -136,10 +157,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/keras-image-detection-classification> <img src="https://img.shields.io/badge/keras image detection classification-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Image Detection using TensorFlow in Python.</i> <!--
-    <a target='keras-image-detection-classification' href='https://github.com/MartinCastroAlvarez/keras-image-detection-classification'>
-        keras-image-detection-classification
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/keras-image-detection-classification'>
+    <img src='https://img.shields.io/badge/keras image detection classification-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=keras-image-detection-classification href=https://github.com/MartinCastroAlvarez/keras-image-detection-classification> Image Detection using TensorFlow in Python. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/keras-image-detection-classification'>
@@ -154,10 +178,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/python-recommender-systems> <img src="https://img.shields.io/badge/python recommender systems-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Recommender systems using numpy.</i> <!--
-    <a target='python-recommender-systems' href='https://github.com/MartinCastroAlvarez/python-recommender-systems'>
-        python-recommender-systems
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/python-recommender-systems'>
+    <img src='https://img.shields.io/badge/python recommender systems-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=python-recommender-systems href=https://github.com/MartinCastroAlvarez/python-recommender-systems> Recommender systems using numpy. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-recommender-systems'>
@@ -178,10 +205,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/graph-link-prediction> <img src="https://img.shields.io/badge/graph link prediction-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Deep Link prediction using Keras.</i> <!--
-    <a target='graph-link-prediction' href='https://github.com/MartinCastroAlvarez/graph-link-prediction'>
-        graph-link-prediction
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/graph-link-prediction'>
+    <img src='https://img.shields.io/badge/graph link prediction-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=graph-link-prediction href=https://github.com/MartinCastroAlvarez/graph-link-prediction> Deep Link prediction using Keras. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/graph-link-prediction'>
@@ -196,10 +226,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms> <img src="https://img.shields.io/badge/python deep learning algorithms-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Combinatorics usig numpy, matplotlib and scipy.</i> <!--
-    <a target='python-deep-learning-algorithms' href='https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms'>
-        python-deep-learning-algorithms
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms'>
+    <img src='https://img.shields.io/badge/python deep learning algorithms-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=python-deep-learning-algorithms href=https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms> Combinatorics usig numpy, matplotlib and scipy. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-deep-learning-algorithms'>
@@ -232,10 +265,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching> <img src="https://img.shields.io/badge/cross datasource entity matching-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Finding matches between dataset.</i> <!--
-    <a target='cross-datasource-entity-matching' href='https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching'>
-        cross-datasource-entity-matching
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching'>
+    <img src='https://img.shields.io/badge/cross datasource entity matching-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=cross-datasource-entity-matching href=https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching> Finding matches between dataset. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/cross-datasource-entity-matching'>
@@ -250,10 +286,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/supply-chain-optimization> <img src="https://img.shields.io/badge/supply chain optimization-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Supply chain optimization in python.</i> <!--
-    <a target='supply-chain-optimization' href='https://github.com/MartinCastroAlvarez/supply-chain-optimization'>
-        supply-chain-optimization
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/supply-chain-optimization'>
+    <img src='https://img.shields.io/badge/supply chain optimization-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=supply-chain-optimization href=https://github.com/MartinCastroAlvarez/supply-chain-optimization> Supply chain optimization in python. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/supply-chain-optimization'>
@@ -268,10 +307,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator> <img src="https://img.shields.io/badge/Python Monte Carlo Simulator-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Monte Carlo simulator in Python.</i> <!--
-    <a target='Python-Monte-Carlo-Simulator' href='https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator'>
-        Python-Monte-Carlo-Simulator
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator'>
+    <img src='https://img.shields.io/badge/Python Monte Carlo Simulator-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Python-Monte-Carlo-Simulator href=https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator> Monte Carlo simulator in Python. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Monte-Carlo-Simulator'>
@@ -286,10 +328,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/statistical-distributions> <img src="https://img.shields.io/badge/statistical distributions-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Statistical distributions in Python.</i> <!--
-    <a target='statistical-distributions' href='https://github.com/MartinCastroAlvarez/statistical-distributions'>
-        statistical-distributions
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/statistical-distributions'>
+    <img src='https://img.shields.io/badge/statistical distributions-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=statistical-distributions href=https://github.com/MartinCastroAlvarez/statistical-distributions> Statistical distributions in Python. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/statistical-distributions'>
@@ -316,10 +361,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Optimization</h2> <p> <a href=https://github.com/MartinCastroAlvarez/Genetic-Paper> <img src="https://img.shields.io/badge/Genetic Paper-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Genetic Algorithms &amp; Paper.</i> <!--
-    <a target='Genetic-Paper' href='https://github.com/MartinCastroAlvarez/Genetic-Paper'>
-        Genetic-Paper
-    </a>:
+    --> </p> <h2 align=center>Optimization</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Genetic-Paper'>
+    <img src='https://img.shields.io/badge/Genetic Paper-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Genetic-Paper href=https://github.com/MartinCastroAlvarez/Genetic-Paper> Genetic Algorithms &amp; Paper. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Genetic-Paper'>
@@ -328,10 +376,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm> <img src="https://img.shields.io/badge/Genetic Optimization Algorithm-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Genetic Algorithms in Python.</i> <!--
-    <a target='Genetic-Optimization-Algorithm' href='https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm'>
-        Genetic-Optimization-Algorithm
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm'>
+    <img src='https://img.shields.io/badge/Genetic Optimization Algorithm-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Genetic-Optimization-Algorithm href=https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm> Genetic Algorithms in Python. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Genetic-Optimization-Algorithm'>
@@ -340,10 +391,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Hadoop</h2> <p> <a href=https://github.com/MartinCastroAlvarez/apache-hive-docker> <img src="https://img.shields.io/badge/apache hive docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Hive jobs using Docker</i> <!--
-    <a target='apache-hive-docker' href='https://github.com/MartinCastroAlvarez/apache-hive-docker'>
-        apache-hive-docker
-    </a>:
+    --> </p> <h2 align=center>Hadoop</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/apache-hive-docker'>
+    <img src='https://img.shields.io/badge/apache hive docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=apache-hive-docker href=https://github.com/MartinCastroAlvarez/apache-hive-docker> Running Hive jobs using Docker </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/apache-hive-docker'>
@@ -364,10 +418,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker> <img src="https://img.shields.io/badge/hadoop hdfs map reduce docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Map Reduce jobs using Docker</i> <!--
-    <a target='hadoop-hdfs-map-reduce-docker' href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker'>
-        hadoop-hdfs-map-reduce-docker
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker'>
+    <img src='https://img.shields.io/badge/hadoop hdfs map reduce docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=hadoop-hdfs-map-reduce-docker href=https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker> Running Map Reduce jobs using Docker </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-map-reduce-docker'>
@@ -382,10 +439,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker> <img src="https://img.shields.io/badge/hadoop hdfs kafka docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Kafka using Docker</i> <!--
-    <a target='hadoop-hdfs-kafka-docker' href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker'>
-        hadoop-hdfs-kafka-docker
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker'>
+    <img src='https://img.shields.io/badge/hadoop hdfs kafka docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=hadoop-hdfs-kafka-docker href=https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker> Running Kafka using Docker </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-kafka-docker'>
@@ -406,10 +466,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker> <img src="https://img.shields.io/badge/hadoop hdfs hbase docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Hbase using Docker</i> <!--
-    <a target='hadoop-hdfs-hbase-docker' href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker'>
-        hadoop-hdfs-hbase-docker
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker'>
+    <img src='https://img.shields.io/badge/hadoop hdfs hbase docker-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=hadoop-hdfs-hbase-docker href=https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker> Running Hbase using Docker </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/hadoop-hdfs-hbase-docker'>
@@ -424,10 +487,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>DevOps</h2> <p> <a href=https://github.com/MartinCastroAlvarez/aws-django-ansible> <img src="https://img.shields.io/badge/aws django ansible-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Django in AWS using Ansible</i> <!--
-    <a target='aws-django-ansible' href='https://github.com/MartinCastroAlvarez/aws-django-ansible'>
-        aws-django-ansible
-    </a>:
+    --> </p> <h2 align=center>DevOps</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/aws-django-ansible'>
+    <img src='https://img.shields.io/badge/aws django ansible-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=aws-django-ansible href=https://github.com/MartinCastroAlvarez/aws-django-ansible> Running Django in AWS using Ansible </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/aws-django-ansible'>
@@ -454,10 +520,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/terraform-aws-django> <img src="https://img.shields.io/badge/terraform aws django-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Django in AWS using Terraform</i> <!--
-    <a target='terraform-aws-django' href='https://github.com/MartinCastroAlvarez/terraform-aws-django'>
-        terraform-aws-django
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/terraform-aws-django'>
+    <img src='https://img.shields.io/badge/terraform aws django-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=terraform-aws-django href=https://github.com/MartinCastroAlvarez/terraform-aws-django> Running Django in AWS using Terraform </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/terraform-aws-django'>
@@ -472,10 +541,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/aws-django-kubernetes> <img src="https://img.shields.io/badge/aws django kubernetes-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Django app running on AWS EKS</i> <!--
-    <a target='aws-django-kubernetes' href='https://github.com/MartinCastroAlvarez/aws-django-kubernetes'>
-        aws-django-kubernetes
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/aws-django-kubernetes'>
+    <img src='https://img.shields.io/badge/aws django kubernetes-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=aws-django-kubernetes href=https://github.com/MartinCastroAlvarez/aws-django-kubernetes> Django app running on AWS EKS </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/aws-django-kubernetes'>
@@ -496,10 +568,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation> <img src="https://img.shields.io/badge/aws networking elastic beanstalk automation-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>AWS networking, rds, elasticache, elasticsearch, Elastic Beanstalk</i> <!--
-    <a target='aws-networking-elastic-beanstalk-automation' href='https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation'>
-        aws-networking-elastic-beanstalk-automation
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation'>
+    <img src='https://img.shields.io/badge/aws networking elastic beanstalk automation-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=aws-networking-elastic-beanstalk-automation href=https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation> AWS networking, rds, elasticache, elasticsearch, Elastic Beanstalk </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/aws-networking-elastic-beanstalk-automation'>
@@ -532,10 +607,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/supervisor-python> <img src="https://img.shields.io/badge/supervisor python-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Python scripts using Supervisord in Linux</i> <!--
-    <a target='supervisor-python' href='https://github.com/MartinCastroAlvarez/supervisor-python'>
-        supervisor-python
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/supervisor-python'>
+    <img src='https://img.shields.io/badge/supervisor python-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=supervisor-python href=https://github.com/MartinCastroAlvarez/supervisor-python> Running Python scripts using Supervisord in Linux </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/supervisor-python'>
@@ -544,10 +622,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/Python-Splunk-CLI> <img src="https://img.shields.io/badge/Python Splunk CLI-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Python integration using Splunk logs</i> <!--
-    <a target='Python-Splunk-CLI' href='https://github.com/MartinCastroAlvarez/Python-Splunk-CLI'>
-        Python-Splunk-CLI
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Python-Splunk-CLI'>
+    <img src='https://img.shields.io/badge/Python Splunk CLI-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Python-Splunk-CLI href=https://github.com/MartinCastroAlvarez/Python-Splunk-CLI> Python integration using Splunk logs </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Splunk-CLI'>
@@ -562,10 +643,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/filesystem-tools> <img src="https://img.shields.io/badge/filesystem tools-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>File system management tools integrated with AWS S3</i> <!--
-    <a target='filesystem-tools' href='https://github.com/MartinCastroAlvarez/filesystem-tools'>
-        filesystem-tools
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/filesystem-tools'>
+    <img src='https://img.shields.io/badge/filesystem tools-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=filesystem-tools href=https://github.com/MartinCastroAlvarez/filesystem-tools> File system management tools integrated with AWS S3 </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/filesystem-tools'>
@@ -580,10 +664,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Blockchain</h2> <p> <a href=https://github.com/MartinCastroAlvarez/ethereum-solidity-contract> <img src="https://img.shields.io/badge/ethereum solidity contract-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Smart Contract running on the Etherum network using Solidity</i> <!--
-    <a target='ethereum-solidity-contract' href='https://github.com/MartinCastroAlvarez/ethereum-solidity-contract'>
-        ethereum-solidity-contract
-    </a>:
+    --> </p> <h2 align=center>Blockchain</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/ethereum-solidity-contract'>
+    <img src='https://img.shields.io/badge/ethereum solidity contract-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=ethereum-solidity-contract href=https://github.com/MartinCastroAlvarez/ethereum-solidity-contract> Smart Contract running on the Etherum network using Solidity </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/ethereum-solidity-contract'>
@@ -598,10 +685,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/django-multi-blockchain> <img src="https://img.shields.io/badge/django multi blockchain-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Cross-Chain distributed architecture for Django</i> <!--
-    <a target='django-multi-blockchain' href='https://github.com/MartinCastroAlvarez/django-multi-blockchain'>
-        django-multi-blockchain
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/django-multi-blockchain'>
+    <img src='https://img.shields.io/badge/django multi blockchain-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=django-multi-blockchain href=https://github.com/MartinCastroAlvarez/django-multi-blockchain> Cross-Chain distributed architecture for Django </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/django-multi-blockchain'>
@@ -628,10 +718,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/solana-token-rust> <img src="https://img.shields.io/badge/solana token rust-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Solana token, NFT and program in Rust</i> <!--
-    <a target='solana-token-rust' href='https://github.com/MartinCastroAlvarez/solana-token-rust'>
-        solana-token-rust
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/solana-token-rust'>
+    <img src='https://img.shields.io/badge/solana token rust-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=solana-token-rust href=https://github.com/MartinCastroAlvarez/solana-token-rust> Solana token, NFT and program in Rust </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/solana-token-rust'>
@@ -646,10 +739,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Multimedia</h2> <p> <a href=https://github.com/MartinCastroAlvarez/Python-Video-Processing> <img src="https://img.shields.io/badge/Python Video Processing-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Movie generator using MoviePy, OpenCV2 and Numpy</i> <!--
-    <a target='Python-Video-Processing' href='https://github.com/MartinCastroAlvarez/Python-Video-Processing'>
-        Python-Video-Processing
-    </a>:
+    --> </p> <h2 align=center>Multimedia</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Python-Video-Processing'>
+    <img src='https://img.shields.io/badge/Python Video Processing-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Python-Video-Processing href=https://github.com/MartinCastroAlvarez/Python-Video-Processing> Movie generator using MoviePy, OpenCV2 and Numpy </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Video-Processing'>
@@ -670,10 +766,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/media-tools> <img src="https://img.shields.io/badge/media tools-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Video processing pipeline using FFMPEG CLI</i> <!--
-    <a target='media-tools' href='https://github.com/MartinCastroAlvarez/media-tools'>
-        media-tools
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/media-tools'>
+    <img src='https://img.shields.io/badge/media tools-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=media-tools href=https://github.com/MartinCastroAlvarez/media-tools> Video processing pipeline using FFMPEG CLI </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/media-tools'>
@@ -688,10 +787,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Geolocation</h2> <p> <a href=https://github.com/MartinCastroAlvarez/geo-django> <img src="https://img.shields.io/badge/geo django-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Running Django with PostGIS and geolocation libraries</i> <!--
-    <a target='geo-django' href='https://github.com/MartinCastroAlvarez/geo-django'>
-        geo-django
-    </a>:
+    --> </p> <h2 align=center>Geolocation</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/geo-django'>
+    <img src='https://img.shields.io/badge/geo django-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=geo-django href=https://github.com/MartinCastroAlvarez/geo-django> Running Django with PostGIS and geolocation libraries </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/geo-django'>
@@ -700,10 +802,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/pandas-geo-analytics> <img src="https://img.shields.io/badge/pandas geo analytics-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Geo Data Analytics using Pandas.</i> <!--
-    <a target='pandas-geo-analytics' href='https://github.com/MartinCastroAlvarez/pandas-geo-analytics'>
-        pandas-geo-analytics
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/pandas-geo-analytics'>
+    <img src='https://img.shields.io/badge/pandas geo analytics-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=pandas-geo-analytics href=https://github.com/MartinCastroAlvarez/pandas-geo-analytics> Geo Data Analytics using Pandas. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/pandas-geo-analytics'>
@@ -718,10 +823,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Backend</h2> <p> <a href=https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer> <img src="https://img.shields.io/badge/node typescript pdf renderer-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>PDF rendering with Typescript</i> <!--
-    <a target='node-typescript-pdf-renderer' href='https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer'>
-        node-typescript-pdf-renderer
-    </a>:
+    --> </p> <h2 align=center>Backend</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer'>
+    <img src='https://img.shields.io/badge/node typescript pdf renderer-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=node-typescript-pdf-renderer href=https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer> PDF rendering with Typescript </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/node-typescript-pdf-renderer'>
@@ -730,10 +838,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/java-spring-boot> <img src="https://img.shields.io/badge/java spring boot-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Java Spring Boot</i> <!--
-    <a target='java-spring-boot' href='https://github.com/MartinCastroAlvarez/java-spring-boot'>
-        java-spring-boot
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/java-spring-boot'>
+    <img src='https://img.shields.io/badge/java spring boot-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=java-spring-boot href=https://github.com/MartinCastroAlvarez/java-spring-boot> Java Spring Boot </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/java-spring-boot'>
@@ -748,10 +859,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/data-structures-java> <img src="https://img.shields.io/badge/data structures java-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Data Structures in Java</i> <!--
-    <a target='data-structures-java' href='https://github.com/MartinCastroAlvarez/data-structures-java'>
-        data-structures-java
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/data-structures-java'>
+    <img src='https://img.shields.io/badge/data structures java-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=data-structures-java href=https://github.com/MartinCastroAlvarez/data-structures-java> Data Structures in Java </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/data-structures-java'>
@@ -760,10 +874,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/django-data-analytics> <img src="https://img.shields.io/badge/django data analytics-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Data analytics, PnL, LTV &amp; retention analysis in Django</i> <!--
-    <a target='django-data-analytics' href='https://github.com/MartinCastroAlvarez/django-data-analytics'>
-        django-data-analytics
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/django-data-analytics'>
+    <img src='https://img.shields.io/badge/django data analytics-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=django-data-analytics href=https://github.com/MartinCastroAlvarez/django-data-analytics> Data analytics, PnL, LTV &amp; retention analysis in Django </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/django-data-analytics'>
@@ -772,10 +889,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/django-cms> <img src="https://img.shields.io/badge/django cms-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>CMS in Django 3 Templates and Forms</i> <!--
-    <a target='django-cms' href='https://github.com/MartinCastroAlvarez/django-cms'>
-        django-cms
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/django-cms'>
+    <img src='https://img.shields.io/badge/django cms-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=django-cms href=https://github.com/MartinCastroAlvarez/django-cms> CMS in Django 3 Templates and Forms </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/django-cms'>
@@ -784,10 +904,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api> <img src="https://img.shields.io/badge/flask mongodb celery messaging api-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Chat server using Flask, MongoDB, Redis and Celery</i> <!--
-    <a target='flask-mongodb-celery-messaging-api' href='https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api'>
-        flask-mongodb-celery-messaging-api
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api'>
+    <img src='https://img.shields.io/badge/flask mongodb celery messaging api-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=flask-mongodb-celery-messaging-api href=https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api> Chat server using Flask, MongoDB, Redis and Celery </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/flask-mongodb-celery-messaging-api'>
@@ -814,10 +937,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/python-s3-media-server> <img src="https://img.shields.io/badge/python s3 media server-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>File server with Flask and PIL</i> <!--
-    <a target='python-s3-media-server' href='https://github.com/MartinCastroAlvarez/python-s3-media-server'>
-        python-s3-media-server
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/python-s3-media-server'>
+    <img src='https://img.shields.io/badge/python s3 media server-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=python-s3-media-server href=https://github.com/MartinCastroAlvarez/python-s3-media-server> File server with Flask and PIL </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-s3-media-server'>
@@ -826,10 +952,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/python-chat-server-sockets> <img src="https://img.shields.io/badge/python chat server sockets-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Chat server with sockets in Python</i> <!--
-    <a target='python-chat-server-sockets' href='https://github.com/MartinCastroAlvarez/python-chat-server-sockets'>
-        python-chat-server-sockets
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/python-chat-server-sockets'>
+    <img src='https://img.shields.io/badge/python chat server sockets-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=python-chat-server-sockets href=https://github.com/MartinCastroAlvarez/python-chat-server-sockets> Chat server with sockets in Python </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-chat-server-sockets'>
@@ -838,10 +967,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/Flask-Application> <img src="https://img.shields.io/badge/Flask Application-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Flask REST API</i> <!--
-    <a target='Flask-Application' href='https://github.com/MartinCastroAlvarez/Flask-Application'>
-        Flask-Application
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Flask-Application'>
+    <img src='https://img.shields.io/badge/Flask Application-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Flask-Application href=https://github.com/MartinCastroAlvarez/Flask-Application> Flask REST API </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Flask-Application'>
@@ -850,10 +982,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/python-web-crawler> <img src="https://img.shields.io/badge/python web crawler-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Web Crawler in Python</i> <!--
-    <a target='python-web-crawler' href='https://github.com/MartinCastroAlvarez/python-web-crawler'>
-        python-web-crawler
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/python-web-crawler'>
+    <img src='https://img.shields.io/badge/python web crawler-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=python-web-crawler href=https://github.com/MartinCastroAlvarez/python-web-crawler> Web Crawler in Python </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-web-crawler'>
@@ -862,10 +997,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets> <img src="https://img.shields.io/badge/Python Google Spreadsheets-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Python integration with Google Spreadsheets</i> <!--
-    <a target='Python-Google-Spreadsheets' href='https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets'>
-        Python-Google-Spreadsheets
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets'>
+    <img src='https://img.shields.io/badge/Python Google Spreadsheets-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Python-Google-Spreadsheets href=https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets> Python integration with Google Spreadsheets </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Google-Spreadsheets'>
@@ -880,10 +1018,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/software-patterns> <img src="https://img.shields.io/badge/software patterns-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Software Patterns with Python</i> <!--
-    <a target='software-patterns' href='https://github.com/MartinCastroAlvarez/software-patterns'>
-        software-patterns
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/software-patterns'>
+    <img src='https://img.shields.io/badge/software patterns-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=software-patterns href=https://github.com/MartinCastroAlvarez/software-patterns> Software Patterns with Python </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/software-patterns'>
@@ -892,10 +1033,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/web-to-pdf> <img src="https://img.shields.io/badge/web to pdf-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Web crawlers using Python &amp; Beautiful Soup</i> <!--
-    <a target='web-to-pdf' href='https://github.com/MartinCastroAlvarez/web-to-pdf'>
-        web-to-pdf
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/web-to-pdf'>
+    <img src='https://img.shields.io/badge/web to pdf-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=web-to-pdf href=https://github.com/MartinCastroAlvarez/web-to-pdf> Web crawlers using Python &amp; Beautiful Soup </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/web-to-pdf'>
@@ -904,10 +1048,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/development-tools> <img src="https://img.shields.io/badge/development tools-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Development Tools, for Python, Android, Typescript, Django, Git, and GPT.</i> <!--
-    <a target='development-tools' href='https://github.com/MartinCastroAlvarez/development-tools'>
-        development-tools
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/development-tools'>
+    <img src='https://img.shields.io/badge/development tools-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=development-tools href=https://github.com/MartinCastroAlvarez/development-tools> Development Tools, for Python, Android, Typescript, Django, Git, and GPT. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/development-tools'>
@@ -916,10 +1063,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/python-jira-cli> <img src="https://img.shields.io/badge/python jira cli-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Python integration with JIRA</i> <!--
-    <a target='python-jira-cli' href='https://github.com/MartinCastroAlvarez/python-jira-cli'>
-        python-jira-cli
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/python-jira-cli'>
+    <img src='https://img.shields.io/badge/python jira cli-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=python-jira-cli href=https://github.com/MartinCastroAlvarez/python-jira-cli> Python integration with JIRA </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/python-jira-cli'>
@@ -934,10 +1084,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Frontend</h2> <p> <a href=https://github.com/MartinCastroAlvarez/microfrontends> <img src="https://img.shields.io/badge/microfrontends-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Distributed frontend architecture for medium &amp; large companies.</i> <!--
-    <a target='microfrontends' href='https://github.com/MartinCastroAlvarez/microfrontends'>
-        microfrontends
-    </a>:
+    --> </p> <h2 align=center>Frontend</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/microfrontends'>
+    <img src='https://img.shields.io/badge/microfrontends-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=microfrontends href=https://github.com/MartinCastroAlvarez/microfrontends> Distributed frontend architecture for medium &amp; large companies. </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/microfrontends'>
@@ -958,10 +1111,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/cypress-tests> <img src="https://img.shields.io/badge/cypress tests-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Testing automation using Cypress</i> <!--
-    <a target='cypress-tests' href='https://github.com/MartinCastroAlvarez/cypress-tests'>
-        cypress-tests
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/cypress-tests'>
+    <img src='https://img.shields.io/badge/cypress tests-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=cypress-tests href=https://github.com/MartinCastroAlvarez/cypress-tests> Testing automation using Cypress </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/cypress-tests'>
@@ -976,10 +1132,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/react-firebase-oauth> <img src="https://img.shields.io/badge/react firebase oauth-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>React application implementing Oauth 2.0 with Firebase</i> <!--
-    <a target='react-firebase-oauth' href='https://github.com/MartinCastroAlvarez/react-firebase-oauth'>
-        react-firebase-oauth
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/react-firebase-oauth'>
+    <img src='https://img.shields.io/badge/react firebase oauth-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=react-firebase-oauth href=https://github.com/MartinCastroAlvarez/react-firebase-oauth> React application implementing Oauth 2.0 with Firebase </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/react-firebase-oauth'>
@@ -994,10 +1153,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/flexbox-project> <img src="https://img.shields.io/badge/flexbox project-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Implementing Flexbox</i> <!--
-    <a target='flexbox-project' href='https://github.com/MartinCastroAlvarez/flexbox-project'>
-        flexbox-project
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/flexbox-project'>
+    <img src='https://img.shields.io/badge/flexbox project-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=flexbox-project href=https://github.com/MartinCastroAlvarez/flexbox-project> Implementing Flexbox </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/flexbox-project'>
@@ -1006,10 +1168,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/typescript-map-reduce> <img src="https://img.shields.io/badge/typescript map reduce-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Map Reduce using Typescript</i> <!--
-    <a target='typescript-map-reduce' href='https://github.com/MartinCastroAlvarez/typescript-map-reduce'>
-        typescript-map-reduce
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/typescript-map-reduce'>
+    <img src='https://img.shields.io/badge/typescript map reduce-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=typescript-map-reduce href=https://github.com/MartinCastroAlvarez/typescript-map-reduce> Map Reduce using Typescript </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/typescript-map-reduce'>
@@ -1018,10 +1183,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc> <img src="https://img.shields.io/badge/typescript mongodb nestjs mvc-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>MVC application using Typescript and MongoDB</i> <!--
-    <a target='typescript-mongodb-nestjs-mvc' href='https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc'>
-        typescript-mongodb-nestjs-mvc
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc'>
+    <img src='https://img.shields.io/badge/typescript mongodb nestjs mvc-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=typescript-mongodb-nestjs-mvc href=https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc> MVC application using Typescript and MongoDB </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/typescript-mongodb-nestjs-mvc'>
@@ -1042,10 +1210,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver> <img src="https://img.shields.io/badge/javascript selenium web driver-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Testing automation using Selenium Web Driver</i> <!--
-    <a target='javascript-selenium-web-driver' href='https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver'>
-        javascript-selenium-web-driver
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver'>
+    <img src='https://img.shields.io/badge/javascript selenium web driver-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=javascript-selenium-web-driver href=https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver> Testing automation using Selenium Web Driver </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/javascript-selenium-web-driver'>
@@ -1054,10 +1225,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/typescript-classes> <img src="https://img.shields.io/badge/typescript classes-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Typescript OOP</i> <!--
-    <a target='typescript-classes' href='https://github.com/MartinCastroAlvarez/typescript-classes'>
-        typescript-classes
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/typescript-classes'>
+    <img src='https://img.shields.io/badge/typescript classes-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=typescript-classes href=https://github.com/MartinCastroAlvarez/typescript-classes> Typescript OOP </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/typescript-classes'>
@@ -1066,10 +1240,13 @@
         
     
     <br/>
-    --> </p> <h2 align=center>Mobile</h2> <p> <a href=https://github.com/MartinCastroAlvarez/Python-Android-Manager> <img src="https://img.shields.io/badge/Python Android Manager-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Remote android device emulator manager web API</i> <!--
-    <a target='Python-Android-Manager' href='https://github.com/MartinCastroAlvarez/Python-Android-Manager'>
-        Python-Android-Manager
-    </a>:
+    --> </p> <h2 align=center>Mobile</h2> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/Python-Android-Manager'>
+    <img src='https://img.shields.io/badge/Python Android Manager-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=Python-Android-Manager href=https://github.com/MartinCastroAlvarez/Python-Android-Manager> Remote android device emulator manager web API </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/Python-Android-Manager'>
@@ -1084,10 +1261,13 @@
         
     
     <br/>
-    --> </p> <p> <a href=https://github.com/MartinCastroAlvarez/UNLaM-Android-App> <img src="https://img.shields.io/badge/UNLaM Android App-181818?style=for-the-badge&logo=github&logoColor=EDEDED"> </a> <i>Calendar Android native app</i> <!--
-    <a target='UNLaM-Android-App' href='https://github.com/MartinCastroAlvarez/UNLaM-Android-App'>
-        UNLaM-Android-App
-    </a>:
+    --> </p> <p> <!--
+    
+        <a href='https://github.com/MartinCastroAlvarez/UNLaM-Android-App'>
+    <img src='https://img.shields.io/badge/UNLaM Android App-181818?style=for-the-badge&logo=github&logoColor=EDEDED'/>
+</a>
+    
+    --> <a target=UNLaM-Android-App href=https://github.com/MartinCastroAlvarez/UNLaM-Android-App> Calendar Android native app </a>: <!--
     
         
             <a href='https://github.com/MartinCastroAlvarez/UNLaM-Android-App'>
